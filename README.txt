@@ -1,1 +1,1 @@
-This is a simple plotting library to plot temperature data.
+This is a plotting library that can be used to plot temperature data.
